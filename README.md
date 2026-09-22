@@ -1,18 +1,19 @@
-# Hi, I'm Gokul
+# Hi, I'm Gokul 👋
 
-### Aspiring Software Developer | Python | SQL | Web Development
+### Aspiring AI Engineer | Python | SQL | NLP | Generative AI
 
-I am a passionate and motivated fresher interested in Software Development and Web Development. I enjoy building projects, learning new technologies, and improving my programming skills.
+I am a passionate and motivated fresher interested in **Artificial Intelligence, Machine Learning, NLP, and Software Development**. I enjoy building practical projects, exploring new technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
 ## About Me
 
-* Currently improving my skills in **Python, SQL, HTML, CSS, and JavaScript**
-* Interested in **Software Development and Web Development**
-* Also interested in **Data Analysis**
-* Building projects to improve my practical skills
-* Looking for an entry-level opportunity in the IT industry
+* 🎓 B.Tech Information Technology graduate
+* 💻 Interested in **AI Engineering, NLP, Generative AI, and Python development**
+* 🧠 Building practical AI projects to strengthen my technical skills
+* 🔎 Interested in **Semantic Search, RAG, LLMs, and Information Retrieval**
+* 🛠️ Enjoy developing projects that solve real-world problems
+* 🚀 Looking for an entry-level opportunity in the **AI / Software Engineering** field
 
 ---
 
@@ -24,79 +25,143 @@ I am a passionate and motivated fresher interested in Software Development and W
 * SQL
 * JavaScript
 
-### Web Technologies
+### AI & NLP
+
+* Natural Language Processing (NLP)
+* Semantic Search
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Text Embeddings
+* Vector Search
+* Hybrid Search
+
+### AI Tools & Frameworks
+
+* Sentence Transformers
+* FAISS
+* BM25
+* FastAPI
+* Streamlit
+* Docker
+
+### Web & Database
 
 * HTML5
 * CSS3
+* SQLite
 
-### Tools & Technologies
+### Tools
 
 * Git
 * GitHub
-* SQLite
 * Microsoft Excel
 
 ---
 
-## My Projects
+## Featured Projects
 
-### Student Management System
+### 🚀 AI-Powered Enterprise Hybrid RAG System
 
-A CRUD-based application built using **Python and SQLite**.
+An advanced **NLP and Generative AI system** designed to retrieve relevant information from a large document collection and generate answers using retrieved evidence.
 
-**Features:**
+**Key Features:**
 
-* Add Student
-* Update Student
-* Delete Student
-* View Student Records
+* Semantic Search using text embeddings
+* FAISS vector database
+* BM25 keyword retrieval
+* Hybrid Search combining semantic and keyword retrieval
+* Document chunking and preprocessing
+* RAG-based answer generation
+* Evidence retrieval and grounding
+* FastAPI backend
+* Streamlit interface
+* Docker deployment
 
----
-
-### Nostra E-Commerce Website
-
-A responsive e-commerce website built using **HTML, CSS, and JavaScript**.
-
-**Features:**
-
-* Product Display
-* Search Functionality
-* Responsive Design
-* Modern User Interface
+**Technologies:**
+`Python` `NLP` `RAG` `LLM` `FAISS` `BM25` `FastAPI` `Streamlit` `Docker`
 
 ---
 
-### Sales Dashboard
+### 🎓 Student Management System
 
-An interactive Sales Dashboard created using **Microsoft Excel**.
+A CRUD-based student management application developed using **Python and SQLite**.
 
 **Features:**
 
-* Sales Analysis
-* Interactive Dashboard
-* Charts and Visualizations
-* Business Insights
+* Add student records
+* Update student records
+* Delete student records
+* View student records
+* SQLite database integration
+
+**Technologies:**
+`Python` `SQLite`
+
+---
+
+### 🛒 Nostra E-Commerce Website
+
+A responsive e-commerce website developed using **HTML, CSS, and JavaScript**.
+
+**Features:**
+
+* Product display
+* Search functionality
+* Responsive design
+* Interactive user interface
+
+**Technologies:**
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 📊 Sales Dashboard
+
+An interactive sales dashboard created using **Microsoft Excel** to analyze sales data and generate business insights.
+
+**Features:**
+
+* Sales analysis
+* Interactive dashboard
+* Charts and visualizations
+* Business insights
+
+**Technologies:**
+`Microsoft Excel`
 
 ---
 
 ## Currently Learning
 
 * Advanced Python
+* Natural Language Processing
+* Generative AI
+* Large Language Models
+* Retrieval-Augmented Generation
+* Vector Databases
+* Information Retrieval
+* FastAPI
+* Docker
 * Advanced SQL
-* JavaScript
-* Web Development
-* Data Analysis
+
+---
+
+## GitHub Goals
+
+I am continuously working on projects to improve my skills in:
+
+**AI Engineering → NLP → Generative AI → LLM Applications → Production AI Systems**
+
+I believe in **building practical projects, learning from implementation, and continuously improving.**
 
 ---
 
 ## Connect With Me
 
-LinkedIn: [Gokul J](https://www.linkedin.com/in/gokulj2003)
+🔗 **LinkedIn:** [Gokul J](https://www.linkedin.com/in/gokulj2003)
 
-Feel free to connect with me for opportunities and collaboration!
+Feel free to connect with me for **AI, software development opportunities, projects, and collaboration**.
 
 ---
 
-### Thank you for visiting my GitHub Profile!
-
-**Keep Learning | Keep Building | Keep Growing**
+### Keep Learning | Keep Building | Keep Growing 🚀
