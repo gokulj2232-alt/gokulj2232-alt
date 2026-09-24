@@ -1,148 +1,139 @@
 # Hi, I'm Gokul 👋
 
-### Aspiring AI Engineer | Python | SQL | NLP | Generative AI
+### Aspiring AI Engineer | Python | SQL | NLP | Generative AI | RAG
 
-I am a passionate and motivated fresher interested in **Artificial Intelligence, Machine Learning, NLP, and Software Development**. I enjoy building practical projects, exploring new technologies, and continuously improving my programming and problem-solving skills.
+I am a B.Tech Information Technology graduate (2026) interested in Artificial Intelligence, Machine Learning, NLP, and Generative AI. I enjoy building practical projects, exploring new technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
 ## About Me
 
-* 🎓 B.Tech Information Technology graduate
-* 💻 Interested in **AI Engineering, NLP, Generative AI, and Python development**
-* 🧠 Building practical AI projects to strengthen my technical skills
-* 🔎 Interested in **Semantic Search, RAG, LLMs, and Information Retrieval**
-* 🛠️ Enjoy developing projects that solve real-world problems
-* 🚀 Looking for an entry-level opportunity in the **AI / Software Engineering** field
+- 🎓 B.Tech Information Technology graduate (2026)
+- 💻 Interested in AI Engineering, NLP, Generative AI, and Python development
+- 🧠 Built an Enterprise Hybrid RAG system for document retrieval and evidence-grounded answer generation
+- 🔎 Interested in Semantic Search, RAG, LLMs, and Information Retrieval
+- 🛠️ Enjoy developing projects that solve real-world problems
+- 🚀 Looking for entry-level opportunities in AI Engineering and Software Development
 
 ---
 
 ## Skills & Technologies
 
 ### Programming Languages
-
-* Python
-* SQL
-* JavaScript
+- Python
+- SQL
+- JavaScript
 
 ### AI & NLP
-
-* Natural Language Processing (NLP)
-* Semantic Search
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Text Embeddings
-* Vector Search
-* Hybrid Search
+- Natural Language Processing (NLP)
+- Semantic Search
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Text Embeddings
+- Vector Search
+- Hybrid Search
 
 ### AI Tools & Frameworks
-
-* Sentence Transformers
-* FAISS
-* BM25
-* FastAPI
-* Streamlit
-* Docker
+- Sentence Transformers
+- FAISS
+- BM25
+- FastAPI
+- Streamlit
+- Docker
 
 ### Web & Database
-
-* HTML5
-* CSS3
-* SQLite
+- HTML5
+- CSS3
+- SQLite
 
 ### Tools
-
-* Git
-* GitHub
-* Microsoft Excel
+- Git
+- GitHub
+- Microsoft Excel
 
 ---
 
 ## Featured Projects
 
-### 🚀 AI-Powered Enterprise Hybrid RAG System
+### 🚀 1. AI-Powered Enterprise Hybrid RAG System
 
-An advanced **NLP and Generative AI system** designed to retrieve relevant information from a large document collection and generate answers using retrieved evidence.
+An end-to-end NLP and Generative AI system designed to retrieve relevant information from a large document collection and generate answers grounded in retrieved evidence.
 
 **Key Features:**
-
-* Semantic Search using text embeddings
-* FAISS vector database
-* BM25 keyword retrieval
-* Hybrid Search combining semantic and keyword retrieval
-* Document chunking and preprocessing
-* RAG-based answer generation
-* Evidence retrieval and grounding
-* FastAPI backend
-* Streamlit interface
-* Docker deployment
+- Processed a dataset of 50,000 documents, with 49,321 cleaned documents
+- Created 77,658 text chunks and generated 384-dimensional embeddings
+- Implemented semantic search using FAISS
+- Implemented keyword retrieval using BM25
+- Combined semantic and keyword retrieval through hybrid search
+- Applied cross-encoder reranking to improve retrieval relevance
+- Implemented evidence extraction, answerability checks, and grounded answer generation
+- Built a FastAPI backend and Streamlit interface
+- Containerized the application using Docker and Docker Compose
 
 **Technologies:**
-`Python` `NLP` `RAG` `LLM` `FAISS` `BM25` `FastAPI` `Streamlit` `Docker`
+Python, NLP, RAG, LLMs, FAISS, BM25, Sentence Transformers, FastAPI, Streamlit, Docker
+
+[View GitHub Repository](https://github.com/gokulj2232-alt/enterprise-hybrid-rag-system)
 
 ---
 
-### 🎓 Student Management System
+### 📊 2. Interactive Excel Sales Dashboard
 
-A CRUD-based student management application developed using **Python and SQLite**.
+An interactive Excel dashboard created to analyze sales performance and explore business data through KPIs, charts, and filters.
 
-**Features:**
-
-* Add student records
-* Update student records
-* Delete student records
-* View student records
-* SQLite database integration
+**Key Features:**
+- Analyzed sales performance across regions, products, and sales representatives
+- Created KPI cards and interactive charts
+- Added dropdown filters for interactive analysis
+- Used Excel formulas and data visualization to summarize sales information
 
 **Technologies:**
-`Python` `SQLite`
+Microsoft Excel, Data Analysis, Data Visualization
+
+[View GitHub Repository](https://github.com/gokulj2232-alt/Excel-Sales-Dashboard)
 
 ---
 
-### 🛒 Nostra E-Commerce Website
+### 🎓 3. Student Management System
 
-A responsive e-commerce website developed using **HTML, CSS, and JavaScript**.
+A student management application developed using Python and SQLite to manage student records.
 
-**Features:**
-
-* Product display
-* Search functionality
-* Responsive design
-* Interactive user interface
+**Key Features:**
+- Implemented Create, Read, Update, and Delete (CRUD) operations
+- Added, viewed, updated, and deleted student records
+- Integrated SQLite for data storage
 
 **Technologies:**
-`HTML` `CSS` `JavaScript`
+Python, SQLite
+
+[View GitHub Repository](https://github.com/gokulj2232-alt/Student-Management-System)
 
 ---
 
-### 📊 Sales Dashboard
+### 🛒 4. Nostra E-Commerce Website
 
-An interactive sales dashboard created using **Microsoft Excel** to analyze sales data and generate business insights.
+A responsive e-commerce website developed using HTML, CSS, and JavaScript.
 
-**Features:**
-
-* Sales analysis
-* Interactive dashboard
-* Charts and visualizations
-* Business insights
+**Key Features:**
+- Designed a responsive user interface
+- Implemented product displays and search functionality
+- Added interactive website features and navigation
 
 **Technologies:**
-`Microsoft Excel`
+HTML, CSS, JavaScript
+
+[View GitHub Repository](https://github.com/gokulj2232-alt/Nostra-E-Commerce-Website)
 
 ---
 
 ## Currently Learning
 
-* Advanced Python
-* Natural Language Processing
-* Generative AI
-* Large Language Models
-* Retrieval-Augmented Generation
-* Vector Databases
-* Information Retrieval
-* FastAPI
-* Docker
-* Advanced SQL
+- Advanced Python and SQL
+- Natural Language Processing
+- Generative AI and LLM applications
+- RAG evaluation and optimization
+- Vector Search and Information Retrieval
+- AI application development and deployment
 
 ---
 
@@ -152,7 +143,7 @@ I am continuously working on projects to improve my skills in:
 
 **AI Engineering → NLP → Generative AI → LLM Applications → Production AI Systems**
 
-I believe in **building practical projects, learning from implementation, and continuously improving.**
+I believe in building practical projects, learning through implementation, and continuously improving.
 
 ---
 
@@ -160,7 +151,9 @@ I believe in **building practical projects, learning from implementation, and co
 
 🔗 **LinkedIn:** [Gokul J](https://www.linkedin.com/in/gokulj2003)
 
-Feel free to connect with me for **AI, software development opportunities, projects, and collaboration**.
+💻 **GitHub:** [gokulj2232-alt](https://github.com/gokulj2232-alt)
+
+Feel free to connect with me for AI projects, software development opportunities, and collaboration.
 
 ---
 
